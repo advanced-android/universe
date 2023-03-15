@@ -1,0 +1,1 @@
+This is a database i created for the FreeCodeCamp Build a Celestial Bodies Database project. it contains information about different types of celestial bodies such as galaxies, stars, planets, moons and asteroids, it also stores different data about them such as their age, diameter, distance from earth, mass, etc.
